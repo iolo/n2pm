@@ -1,0 +1,18 @@
+{
+  "name": "n2pm",
+  "version": "1.0.0",
+  "description": "N2pm is Not a Node Package manager",
+  "main": "index.js",
+  "author": "Dongsu Jang <iolothebard@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "combine-stream": "0.0.4",
+    "combined-stream2": "^1.1.2",
+    "concat-stream": "^1.5.1",
+    "debug": "^2.2.0",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "node-fetch": "^1.6.0",
+    "rimraf": "^2.5.4"
+  }
+}
